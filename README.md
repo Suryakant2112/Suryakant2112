@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Suryakant%20Acharya&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Real-Time%20Systems&descAlignY=58&descSize=20&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Suryakant%20Acharya&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Real-Time%20Systems&descAlignY=58&descSize=20&animation=twinkling" alt="header"/>
 </p>
 
 <p align="center">
@@ -10,14 +10,24 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="60"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="60"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="60"/>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Suryakant2112&label=Profile%20views&color=00e0ff&style=flat-square" alt="views"/>
   <a href="https://github.com/Suryakant2112?tab=followers"><img src="https://img.shields.io/github/followers/Suryakant2112?label=Followers&style=flat-square&color=2c5364" alt="followers"/></a>
   <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collabs-success?style=flat-square" alt="open"/>
 </p>
 
----
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
+
+<table>
+<tr>
+<td width="58%" valign="middle">
 
 ```ts
 const suryakant = {
@@ -29,9 +39,20 @@ const suryakant = {
 };
 ```
 
----
+</td>
+<td width="42%" align="center" valign="middle">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding"/>
+</td>
+</tr>
+</table>
 
-## 🚀 Featured Projects
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=600&color=F7B500&center=true&vCenter=true&multiline=false&repeat=true&width=620&lines=%F0%9F%94%AD+Currently+building%3A+smarter+RAG+pipelines;%F0%9F%8C%B1+Learning%3A+scalable+backends+%26+LLMOps;%F0%9F%92%AC+Ask+me+about%3A+React%2C+FastAPI%2C+PyTorch;%E2%9A%A1+Fun+fact%3A+I+debug+faster+with+chai+%E2%98%95" />
+</p>
+
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32"> Featured Projects
 
 <table>
 <tr>
@@ -93,9 +114,9 @@ A **deep-learning virtual try-on pipeline** built on HR-VITON: give it a person'
   <a href="https://github.com/Suryakant2112/crypto-watchlist"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Suryakant2112&repo=crypto-watchlist&theme=tokyonight&hide_border=true" /></a>
 </p>
 
----
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="32"> Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,html,css&perline=6" /><br/>
@@ -111,14 +132,9 @@ A **deep-learning virtual try-on pipeline** built on HR-VITON: give it a person'
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 </p>
 
----
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Suryakant2112&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryakant2112&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="32"> GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Suryakant2112&theme=tokyonight&hide_border=true" />
@@ -128,26 +144,15 @@ A **deep-learning virtual try-on pipeline** built on HR-VITON: give it a person'
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suryakant2112&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suryakant2112&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
-</p>
 
-<!-- 🐍 Contribution snake — works after you add the GitHub Action (see instructions) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suryakant2112/Suryakant2112/output/github-snake-dark.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/Suryakant2112/Suryakant2112/output/github-snake.svg" />
-  </picture>
-</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
----
-
-## 🤝 Let's Connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="32"> Let's Connect
 
 <p align="center">
   <a href="https://github.com/Suryakant2112"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/suryakant-acharya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:suryakantacharya2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
